@@ -1,0 +1,7 @@
+{
+    "language":"हिन्दी",
+    "@language":{
+
+        "description":"The current language"
+    }
+}
